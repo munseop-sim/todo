@@ -1,3 +1,3 @@
 # todo
-- [] Spring LogTrace
-- [] Spring 모니터링
+- [ ] Spring LogTrace
+- [ ] Spring 모니터링
